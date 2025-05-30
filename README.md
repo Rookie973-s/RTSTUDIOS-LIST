@@ -150,7 +150,7 @@
 </head>
 <body>
 
-  <h2>🎬 RTSTUDIOS Watchlist 🎬</h2>
+  <h2>🎬 Watchlist 🎬</h2>
 
   <!-- Login area -->
   <input type="text" id="usernameInput" placeholder="Enter your name...">
