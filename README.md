@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>RTSTUDIOS Watchlist</title>
+  <title>Watchlist</title>
   <style>
     body {
       font-family: sans-serif;
@@ -150,7 +150,7 @@
 </head>
 <body>
 
-  <h2>🎬 Watchlist 🎬</h2>
+  <h2></h2>
 
   <!-- Login area -->
   <input type="text" id="usernameInput" placeholder="Enter your name...">
@@ -158,7 +158,7 @@
   <p id="welcomeText"></p>
 
   <!-- Series input area -->
-  <input type="text" id="seriesInput" placeholder="Enter series/movies name..." disabled>
+  <input type="text" id="seriesInput" placeholder="Enter series name..." disabled>
   <button onclick="addSeries()">Add</button>
 
   <!-- List display -->
